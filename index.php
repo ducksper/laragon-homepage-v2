@@ -104,12 +104,6 @@
 
                 ?>
 
-                <li><a href="#">Loafy-framework</a></li>
-                <li><a href="#">Chocolat-website</a></li>
-                <li><a href="#">Chocolat-design</a></li>
-                <li><a href="#">Deepvoid</a></li>
-                <li><a href="#">Little scripts with Js</a></li>
-
                 <br /><hr /><br />
 
                 <div class="toolbox">
@@ -117,9 +111,9 @@
                     <div class="toolbox-content">
 
                     <li><img src="https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico" alt="Stack Overflow favicon"><a href="https://stackoverflow.com/"> Stack Overflow</a></li>
-                    <li><img src="https://laravel.com/favicon.png" alt="Laravel Favicon" /><a href="https://laravel.com/"> Laravel</a></li>
-                    <li><img src="https://symfony.com/apple-touch-icon.png" alt="Symfony favicon" /><a href="https://symfony.com/"> Symfony</a></li>
-                    <li><img src="https://regex101.com/apple-icon-57x57.png" alt="Regex101 favicon" /><a href="https://regex101.com/"> Regex101</a></li>
+                    <li><img src="https://laravel.com/img/favicon/favicon-32x32.png" alt="Laravel Favicon" /><a href="https://laravel.com/"> Laravel</a></li>
+                    <li><img src="https://symfony.com/favicons/favicon-32x32.png" alt="Symfony favicon" /><a href="https://symfony.com/"> Symfony</a></li>
+                    <li><img src="https://regex101.com/static/assets/favicon-32x32.png" alt="Regex101 favicon" /><a href="https://regex101.com/"> Regex101</a></li>
                     <li><img src="https://cdn.dribbble.com/assets/favicon-63b2904a073c89b52b19aa08cebc16a154bcf83fee8ecc6439968b1e6db569c7.ico" alt="Dribbble favicon" /><a href="https://dribbble.com/"> Dribbble</a></li>
                     <li><img src="https://www.gstatic.com/images/branding/product/ico/google_fonts_lodp.ico" alt="favicon" /><a href="https://fonts.google.com/"> Google Fonts</a></li>
                     
