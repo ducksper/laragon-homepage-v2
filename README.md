@@ -2,7 +2,7 @@
 
 <p align="center"><b>Laragon Homepage v2</b> is a replacement page to the original one. It displays the <b>projects in progress</b>, it is <b>light</b> and <b>one-file</b>.</p>
 
-![Preview of Laragon Homepage v2](./preview.png)
+![Preview of Laragon Homepage v2](preview.png)
 
 ### Installation
 1. Rename the file `index.php` to `index.old.php` to get a backup if needed,
